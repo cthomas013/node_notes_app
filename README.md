@@ -1,1 +1,1 @@
-# node_notes_app
+# Notes Application
